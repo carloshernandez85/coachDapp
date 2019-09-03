@@ -7,12 +7,11 @@ class Form extends React.Component {
             <div className="container text-right">
                 <div class="form-group row">
                     <div className="col-lg-12"> 
-                        <label htmlFor="zipcode"></label>
-                            <input 
+                            {/* <input 
                                 className="form-control"
                                 type="input"
                                 placeholder="Search for coach here!"
-                                name="zipcode" />
+                                name="zipcode" /> */}
                             </div>
                         </div>
                     </div>
